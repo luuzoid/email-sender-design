@@ -1,5 +1,5 @@
 # email-sender-design
-Design For Email Sender
+Design For Email Sender<br>
 Includes:
 - Confirm Account
 - Renewal Notifier
