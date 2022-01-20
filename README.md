@@ -1,2 +1,7 @@
 # email-sender-design
-Design for Email Sender
+Design For Email Sender
+Includes:
+- Confirm Account
+- Renewal Notifier
+- Payment Success, Pending, Cancel Notifier
+- Forgot Password
